@@ -38,23 +38,15 @@
 
 
 
-###  Connect with Me
 
-
+###  Let's Connect
 <p>
-
-  <a href="mailto:your@email.com">
-
-    <img src="https://www.linkedin.com/in/aljawharah-alhuqbani-74641a358?" />
-
-  </a>
-
-  <a href="https://linkedin.com/in/yourname">
-
-    <img src="aljwharahsaad785@gmail.com" />
-
-  </a>
-
+<a href="aljwharahsaad785@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/aljawharah-alhuqbani-74641a358?">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 
