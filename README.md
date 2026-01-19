@@ -41,7 +41,7 @@
 
 ###  Let's Connect
 <p>
-<a href="aljwharahsaad785@gmail.com">
+<a href="mailto:aljwharahsaad785@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
 </a>
 <a href="https://www.linkedin.com/in/aljawharah-alhuqbani-74641a358?">
