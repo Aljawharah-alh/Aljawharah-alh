@@ -1,4 +1,4 @@
-## I'm [Your Name] 👩‍💻
+## Hi I'm Aljawharah Alhuqbani
 
 
 
@@ -40,12 +40,18 @@
 
 ###  Connect with Me
 
+
 <p>
 
+  <a href="mailto:your@email.com">
+
+    <img src="https://www.linkedin.com/in/aljawharah-alhuqbani-74641a358?" />
+
+  </a>
 
   <a href="https://linkedin.com/in/yourname">
 
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="aljwharahsaad785@gmail.com" />
 
   </a>
 
@@ -54,3 +60,10 @@
 
 
 ---
+
+
+
+
+
+
+
