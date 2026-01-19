@@ -28,7 +28,7 @@
 
 <p>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,Java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 
 </p>
 
